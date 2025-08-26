@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Javier Guerra, I am a software engineer based in Miami, Florida. During the pandemic I began to study how to make some websites and that led to me attending a coding bootcamp with the University of Miami. This gave me the skills I wanted to learn how to make more complex sites and now work full-time as a software engineer. I enjoy engineering more each day which led me to pursue my Bachelor's Degree in Computer Science so I can go deeper into fundamentals and CS theory. My main language is javascript so I can work on both the frontend and the backend. Besides that I use python for leetcode mainly.
+My name is Javier Guerra, I am a software engineer based in Gainesville, Florida. I started coding to make some websites and that led to me attending a coding bootcamp with the University of Miami. This gave me the skills I wanted to learn how to make more complex sites and work as a software engineer. I enjoy solving complex problems which led me to pursue my Bachelor's Degree in Computer Science so I can go deeper into fundamentals and CS theory. Besides coding I enjoy playing World of Warcraft with my friends.
 <!--
 **javierGuerraDevelop/javierGuerraDevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
